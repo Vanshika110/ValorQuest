@@ -20,7 +20,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Shivansh Dwivedi"
+        android:text="Ambuj Shukla"
         android:textAlignment="4"
         android:textAllCaps="true"
         android:textColor="#FFFFFF"
@@ -34,7 +34,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Shivam Mishra"
+        android:text="Yashraj Srivastava"
         android:textAlignment="4"
         android:textAllCaps="true"
         android:textColor="#FFFFFF"
@@ -49,7 +49,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Adarsh K. Singh"
+        android:text="Prince Saxena"
         android:textAlignment="4"
         android:textAllCaps="true"
         android:textColor="#FFFFFF"
@@ -79,7 +79,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="(Social Media Lead)"
+        android:text="(Management Lead)"
         android:textAlignment="4"
         android:textAllCaps="true"
         android:textColor="#BD2323"
